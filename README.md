@@ -22,7 +22,7 @@ and structured daily learning.
 - Project 3: Planned
 
 ## Daily Log
-### Day 1 — May 10, 2026
+### Day 1 — May 15, 2026
 - Completed honest self audit
 - Installed all tools and created all accounts
 - Set up GitHub profile professionally
@@ -30,3 +30,10 @@ and structured daily learning.
 - Solved 5 SQL problems on StrataScratch
 - Published first LinkedIn post
 - Generated 5 project ideas
+### Day 2 — 16 May 2026
+- Created PostgreSQL practice_db with 5 tables
+- Inserted 50 Indian customers, 20 products, 300 orders, 1000 events using Python
+- Learned ROW_NUMBER vs RANK vs DENSE_RANK differences
+- Practiced LAG for month over month analysis
+- Practiced running totals with window frames
+- Wrote 5 window function queries on real data
